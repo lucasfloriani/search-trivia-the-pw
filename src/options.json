@@ -47,8 +47,8 @@
     "question": "O que é possivel aprender com a Tutora de Habilidades?",
     "answers": [
       "❌Habilidade de Skills",
-      "❌Habilidade de Forjas",
-      "✅Habilidade de  Evolução de Pets"
+      "✅Habilidade de Forjas",
+      "❌Habilidade de  Evolução de Pets"
     ]
   },
   {
@@ -214,9 +214,9 @@
   {
     "question": "Qual Item pode ser forjado na profissão Domadora?",
     "answers": [
-      "✅Skills de Pet",
       "❌Jaula de Mascote",
-      "❌Skills de Feiticeira"
+      "❌Skills de Feiticeira",
+      "✅Skills de Pet"
     ]
   },
   {
