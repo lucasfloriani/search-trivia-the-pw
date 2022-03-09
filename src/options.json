@@ -1,0 +1,314 @@
+[
+  {
+    "question": "A fornalha com set end game dentro do cubo pode ser usada por personagem a partir do nivel?",
+    "answers": ["✅ 40", "❌ 60", "❌ 90"]
+  },
+  {
+    "question": "O NPC Beleza de Outono, pode transformar roupas em:",
+    "answers": ["❌ Gold Evento", "❌Skins de Arma", "✅Tintura Aleatoria"]
+  },
+  {
+    "question": "Quantas pedras do ceu e da Terra e necessario para transferir um +8?",
+    "answers": ["✅150 Pedras", "❌200 Pedras", "❌250 Pedras"]
+  },
+  {
+    "question": "O pacote do conhecimento te permite entrar em:",
+    "answers": ["❌Um evento GvG", "❌Um clan", "✅Uma profissão extra"]
+  },
+  {
+    "question": "A Bolsa Tatica de Matança pode ser roletada usando quantos elementos?",
+    "answers": ["❌4 unidades", "✅7 unidades", "❌10 unidades"]
+  },
+  {
+    "question": "Qual NPC não tem relação com a Pedra Doida?",
+    "answers": ["❌Alicia Moon", "✅Gronier Patinc", "❌Mirian Fuller"]
+  },
+  {
+    "question": "Quantas Horas são necessario esperar para trocar de profissão?",
+    "answers": ["❌12Horas", "✅24Horas", "❌36Horas"]
+  },
+  {
+    "question": "Tintas Pretas e Brancas Puras podem ser farmadas em:",
+    "answers": [
+      "✅Profissão Tecelã",
+      "❌Loja de Gold Evento",
+      "❌Mestre Estilista"
+    ]
+  },
+  {
+    "question": "Complete a Frase... Faltam?",
+    "answers": [
+      "❌10 Dias '-'",
+      "✅14 Dias '-'",
+      "❌Parar de fazer esse meme que ja deu.."
+    ]
+  },
+  {
+    "question": "O que é possivel aprender com a Tutora de Habilidades?",
+    "answers": [
+      "❌Habilidade de Skills",
+      "❌Habilidade de Forjas",
+      "✅Habilidade de  Evolução de Pets"
+    ]
+  },
+  {
+    "question": "A perola +9 pode ser Farmada na:",
+    "answers": ["❌Dusk", "❌Guerra das Nações", "✅Residencia dos Rebeldes"]
+  },
+  {
+    "question": "O que é possivel fazer na fornalha Transfiguração de Pets?",
+    "answers": ["❌Evoluir Pets", "❌Comprar Pets", "✅Comprar Skins de Pet"]
+  },
+  {
+    "question": "Onde é feita a evolução dos pets?",
+    "answers": [
+      "✅Liceu de Cultivo",
+      "❌Profissão de Domadora",
+      "❌Domadora Mestre"
+    ]
+  },
+  {
+    "question": "Quantas moedas memoriais são necessarias para forja Da arma R8Up2?",
+    "answers": ["❌799", "✅999", "❌1500"]
+  },
+  {
+    "question": "Onde é possivel encontrar as fornalhas de forja R8uP2?",
+    "answers": [
+      "❌Cidade Universal",
+      "✅Cidade do Dragão - Leste",
+      "❌Base Clan"
+    ]
+  },
+  {
+    "question": "Quantas ciclos possui a Trial na Base Clan?",
+    "answers": ["✅1", "❌2", "❌3"]
+  },
+  {
+    "question": "A instancia Submundo frigido possui quantas rodadas?",
+    "answers": ["❌10 rodadas", "✅15 rodadas", "❌20 rodadas"]
+  },
+  {
+    "question": "A instancia Submundo Frigido no modo GRUPO tem limite de tempo de:",
+    "answers": ["❌20 Minutos", "✅30 Minutos", "❌40 Minutos"]
+  },
+  {
+    "question": "A instancia Submundo Frigido no modo SOLO tem limite de tempo de:",
+    "answers": ["❌10 Minutos", "❌12 Minutos", "✅15 Minutos"]
+  },
+  {
+    "question": "Onde pode ser farmado o set r8up2?",
+    "answers": [
+      "✅Base Clan, NW, Submundo Frigido",
+      "❌Base Clan, TW, NW",
+      "❌Base Clan, NW e Morai"
+    ]
+  },
+  {
+    "question": "O que pode ser farmado na profissão de Alquimista?",
+    "answers": ["❌Poções", "✅Runas", "❌Equipamentos de Daimon"]
+  },
+  {
+    "question": "Qual item é usado para roletar as missões da Profissão?",
+    "answers": [
+      "❌Renovação de Missão",
+      "✅Renovação de Contrato",
+      "❌Renovação de Prestigio"
+    ]
+  },
+  {
+    "question": "As quest da Profissão Assassino pode ser completada matando:",
+    "answers": ["❌Mobs", "✅Players", "❌World Boss"]
+  },
+  {
+    "question": "Armas de matança podem ser adquiridas na profissão:",
+    "answers": ["✅Assassino", "❌Caçador de Tesouros", "❌Ferreiro"]
+  },
+  {
+    "question": "Quanto de ataque/ataqueM é recebido com o Titulo de Ancião em uma profissão?",
+    "answers": ["❌25", "✅30", "❌45"]
+  },
+  {
+    "question": "Quanto de Defesa/DefM é recebido com o Titulo de Ancião em uma profissão?",
+    "answers": ["❌30", "❌40", "✅50"]
+  },
+  {
+    "question": "Onde é utilizado o Item ''Passaporte Obscuro''",
+    "answers": ["✅Cidade Obscura", "❌Templo Obscuro", "❌Fortaleza Obscura"]
+  },
+  {
+    "question": "Onde é ultilizado o Item \"Passaporte da Residencia\"?",
+    "answers": [
+      "❌Residencia de Hades",
+      "❌Residencia do Lago espelhado",
+      "✅Residencia dos Rebeldes Celestes"
+    ]
+  },
+  {
+    "question": "A Bolsa de XP tem duração de quanto tempo depois de resgatada?",
+    "answers": ["❌1 Hora", "✅2 Horas", "❌3 Horas"]
+  },
+  {
+    "question": "Qual item não pode ser adquirido na loja de Gold Evento do ThePW?",
+    "answers": ["❌Voo", "✅Restauração Basica", "❌Arma Visual"]
+  },
+  {
+    "question": "Quantos chefes é necessário matar para completar o evento Incursão/Raid?",
+    "answers": ["❌1 Boss", "❌2 Boss", "✅3 Boss"]
+  },
+  {
+    "question": "O item \"Recompensa: 30 dias\" pode ser trocado por:",
+    "answers": [
+      "✅3 Pedras nivel 9",
+      "❌1 Tinta Aleatoria",
+      "❌2 Moedas de Ouro"
+    ]
+  },
+  {
+    "question": "No evento de GvG do ThePW, quem do time vencedor recebe a premiação?",
+    "answers": [
+      "❌General e Marechal",
+      "✅Todos os membros do clã que participaram do GvG",
+      "❌Todos os membros do clã"
+    ]
+  },
+  {
+    "question": "Pra que serve o item \"Núcleo de Animação Superior\"?",
+    "answers": [
+      "❌Forjar skins de pet",
+      "✅Forjar montarias superiores",
+      "❌Forjar voos superiores"
+    ]
+  },
+  {
+    "question": "A quantos anos o servidor ThePW está online?",
+    "answers": ["❌2 anos", "❌3 anos", "✅4 anos"]
+  },
+  {
+    "question": "Qual item é necessário adquirir para participar do evento Incursão/Raid?",
+    "answers": [
+      "✅Alistamento: Incursão",
+      "❌Alistamento: Raid",
+      "❌Inicio Incursão"
+    ]
+  },
+  {
+    "question": "Em qual NPC você pode forjar a Troca Bônus - ThePW?",
+    "answers": [
+      "❌Invocador de Reliquias",
+      "❌Adm. de Trocas",
+      "✅Trocas - The Perfect World"
+    ]
+  },
+  {
+    "question": "No NPC Yowhu Graça dos Deuses possui a venda de:",
+    "answers": ["❌Pedras", "❌Refino", "✅Gold Evento"]
+  },
+  {
+    "question": "A Pedra Imperial pode ser usada na forja de:",
+    "answers": ["❌Pedra doida", "✅Bolsas Táticas", "❌Pedra nv11"]
+  },
+  {
+    "question": "Onde a missão Semanal Eliminando o Mal é feita?",
+    "answers": ["❌God3 e Evil3", "❌Dusk", "✅Vale primordial"]
+  },
+  {
+    "question": "Qual Item pode ser forjado na profissão Domadora?",
+    "answers": [
+      "✅Skills de Pet",
+      "❌Jaula de Mascote",
+      "❌Skills de Feiticeira"
+    ]
+  },
+  {
+    "question": "O Templo é uma instância que vai ajudar muito dando:",
+    "answers": ["❌Fama", "✅Experiencia", "❌Dinheiro"]
+  },
+  {
+    "question": "As Armas dos Sete Sábios (35k de fama) podem ser adquiridas:",
+    "answers": [
+      "✅Ao final do Cultivo",
+      "❌Em missão semanal",
+      "❌Evento de artes marciais"
+    ]
+  },
+  {
+    "question": "Em quais dias acontece a Incursão/Raid?",
+    "answers": ["❌Terça e Sexta", "❌Sexta e Sabado", "✅Sexta e Domingo"]
+  },
+  {
+    "question": "A caixa ThePW pode ser trocada por qual item?",
+    "answers": ["✅Frag. ThePW", "❌Pedras nv8", "❌Perolas de Refino"]
+  },
+  {
+    "question": "Quantos certificados de presença são necessários para recolher a recompensa na Gerente de Assiduidade?",
+    "answers": ["❌10 unidades", "❌20 unidades", "✅30 unidades"]
+  },
+  {
+    "question": "A moeda de Ouro - ThePW pode ser usada na forja de:",
+    "answers": ["❌Fama", "❌Gold Evento", "✅Pedras"]
+  },
+  {
+    "question": "Em qual dia/hora tem eventos de [GM] no ThePW?",
+    "answers": [
+      "✅Segunda a Sexta a partir das 19horas",
+      "❌Sabado e Domingo a partir das 19Horas",
+      "❌Não temos evento [GM] no servidor"
+    ]
+  },
+  {
+    "question": "A Fortaleza Divina pode ser acessada após adquirir qual item?",
+    "answers": [
+      "❌Entrada da Fortaleza",
+      "✅Passe da Fortaleza",
+      "❌Alistamento da Fortaleza"
+    ]
+  },
+  {
+    "question": "No evento do Palácio dos Dragões, qual item extra pode ser conquistado?",
+    "answers": [
+      "✅Pérolas de Refino",
+      "❌Gold Evento",
+      "❌Conjunto de roupas G-shop"
+    ]
+  },
+  {
+    "question": "Qual opção de profissão no ThePW não existe?",
+    "answers": ["❌Assassino", "✅Matador", "❌ Tecelã"]
+  },
+  {
+    "question": "Você poderia evoluir a grade de seus acessórios e ornamentos no NPC",
+    "answers": [
+      "❌Transmutador Xang",
+      "❌Transmutador Ming",
+      "✅Transmutador Lee"
+    ]
+  },
+  {
+    "question": "Onde os jogadores conseguem suporte do ThePW?",
+    "answers": [
+      "✅Painel de Jogador e Discord",
+      "❌Facebook e Instagran",
+      "❌Discord e Facebook"
+    ]
+  },
+  {
+    "question": "Qual informação está incorreta relacionada a Diária - Ajudando?",
+    "answers": [
+      "✅Matar o Grande Simio",
+      "❌Matar mestre das sombras",
+      "❌Falar com ançiões"
+    ]
+  },
+  {
+    "question": "Em qual profissão é possível obter montarias aladas 3.3?",
+    "answers": ["❌Ferreiro", "❌Alquimista", "✅Caçador de Tesouros"]
+  },
+  {
+    "question": "A loja online 24Horas é gratuita para personagens",
+    "answers": [
+      "✅Nivel menor que 30",
+      "❌Nivel menor que 50",
+      "❌Nivel menor que 10"
+    ]
+  }
+]
